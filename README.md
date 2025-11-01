@@ -63,7 +63,7 @@ Currently exploring **TypeScript** and **Full Stack Development** to level up my
 
 ### 📫 Connect With Me
 📧 **Email:** [udaybingundi@gmail.com](mailto:udaybingundi@gmail.com)  
-💼 **LinkedIn:** [Udaykumar Bingundi](https://www.linkedin.com/in/udaykumar-bingundi-970279338)
+💼 **LinkedIn:** [Udaykumar Bingundi](https://www.linkedin.com/in/udaykumar-bingundi-970279338)  
 🐙 **GitHub:** [github.com/UdayKumar000](https://github.com/UdayKumar000)  
 
 ---
