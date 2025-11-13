@@ -40,6 +40,13 @@ Currently exploring **TypeScript** and **Full Stack Development** to level up my
 - Features **real-time tracking**, **payment integration**, and **notifications**.  
 - Designed a **responsive UI** and smooth frontend-backend communication.
 
+### ⚙️ [Dynamic CRUD Operation System](https://github.com/UdayKumar000/Automatic-CRUD-API-s-Model-Creation)
+
+- A backend automation tool that dynamically creates database models and their CRUD APIs at runtime.
+- Built with Node.js, Express, and MongoDB for rapid backend prototyping.
+- Eliminates the need for manual schema or route creation — models and APIs are generated automatically.
+- Ideal for scalable backend systems and low-code platforms.
+
 #### 🎥 [YTC Analyzer (Chrome Extension)](https://github.com/UdayKumar000/AI-YouTube-Video-Analysis-Based-on-Comments)
 - A YouTube assistant that analyzes **audience sentiment** in real-time.  
 - Helps users detect **clickbait or poor-quality content** using AI and Node.js.  
