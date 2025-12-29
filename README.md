@@ -15,13 +15,13 @@ Currently exploring **TypeScript** and **Full Stack Development** to level up my
 ### 🛠️ Tech Stack
 
 **Languages:**  
-💻 JavaScript, TypeScript, Java, C/C++
+💻 JavaScript, Java, C/C++
 
 **Frameworks & Libraries:**  
-🧩 Node.js, Express.js, React.js  
+🧩 Node.js, Express.js, React.js, Spring Boot
 
 **Databases:**  
-🗄️ MongoDB, MySQL  
+🗄️ MongoDB, MySQL, Postgres
 
 **Tools & Technologies:**  
 ⚙️ Git, REST APIs, JWT Authentication, MVC Architecture, Mongoose, Postman  
